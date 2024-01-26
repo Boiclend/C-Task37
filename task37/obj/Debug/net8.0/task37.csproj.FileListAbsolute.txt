@@ -1,0 +1,14 @@
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\bin\Debug\net8.0\task37.exe
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\bin\Debug\net8.0\task37.deps.json
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\bin\Debug\net8.0\task37.runtimeconfig.json
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\bin\Debug\net8.0\task37.dll
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\bin\Debug\net8.0\task37.pdb
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.AssemblyInfoInputs.cache
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.AssemblyInfo.cs
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.csproj.CoreCompileInputs.cache
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.dll
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\refint\task37.dll
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.pdb
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\task37.genruntimeconfig.cache
+C:\Users\РомаИлиля\Desktop\C#Task37\task37\obj\Debug\net8.0\ref\task37.dll
